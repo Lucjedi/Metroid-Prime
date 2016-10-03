@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="Omegat" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Black Knight</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="lucas.castro" changedate="20160930T161159Z" creationid="lucas.castro" creationdate="20160930T161159Z">
+        <seg>Cavaleiro Negro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Demon Lord</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="lucas.castro" changedate="20160930T161208Z" creationid="lucas.castro" creationdate="20160930T161208Z">
+        <seg>Senhor Demônio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Evil Mage</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="lucas.castro" changedate="20160930T161422Z" creationid="lucas.castro" creationdate="20160930T161422Z">
+        <seg>Mago Malvado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gladiator</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="lucas.castro" changedate="20160930T161125Z" creationid="lucas.castro" creationdate="20160930T161125Z">
+        <seg>Gladiador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rogue</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="lucas.castro" changedate="20160930T161220Z" creationid="lucas.castro" creationdate="20160930T161220Z">
+        <seg>Ladrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Savage Ogre</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="lucas.castro" changedate="20160930T161353Z" creationid="lucas.castro" creationdate="20160930T161353Z">
+        <seg>Ogro Selvagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strong Guard</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="lucas.castro" changedate="20160930T161151Z" creationid="lucas.castro" creationdate="20160930T161151Z">
+        <seg>Guarda Forte</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
